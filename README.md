@@ -14,7 +14,7 @@
 
 
  🔭 I’m currently working on  <b>IOS App Development</b>.<br />
- 🌱 I’m currently improving my <b>Java Backend/b> Skills.<br />
+ 🌱 I’m currently improving my <b>Java Backend</b> Skills.<br />
  👯 I’m looking to collaborate on Android based Open Source Projects. <br />
  💬 Ask me about anything. I'd love to help!!<br />
  📫 Reach me out at mayank.jha1925@gmail.com<br />

@@ -2,7 +2,7 @@
 
 
 <a href="https://www.linkedin.com/in/mayank-jha-08435a140/">
-  <img align="left" alt="Mayank's LinkedIN" width="22px" src="https://github.com/12MayankJha/12MayankJha/blob/main/linkedin.svg" />
+  <img align="left" alt="Mayank's LinkedIN" width="22px" src="https://github.com/12MayankJha/12MayankJha/blob/main/linkedin.png" />
 </a>
 
 <br/>
